@@ -1,15 +1,15 @@
 Supermarket Analytics
 
-├── app.py # Main application entry point
-├── sales_forecaster.py # Sales prediction module
-├── inventory_reordering.py # Inventory management module
-├── retail_price_suggester.py # Price optimization module
-├── promotional_items.py # Promotion recommendation module
-├── chatbot.py # Conversational interface
-├── data/ # Data storage directory
-│ └── SuperMarket Analysis.csv # Core dataset
-├── models/ # Trained model storage
-└── downloads/ # Generated reports director
+      ├── app.py # Main application entry point
+      ├── sales_forecaster.py # Sales prediction module
+      ├── inventory_reordering.py # Inventory management module
+      ├── retail_price_suggester.py # Price optimization module
+      ├── promotional_items.py # Promotion recommendation module
+      ├── chatbot.py # Conversational interface
+      ├── data/ # Data storage directory
+      │ └── SuperMarket Analysis.csv # Core dataset
+      ├── models/ # Trained model storage
+      └── downloads/ # Generated reports director
 
 ## Core Features
 
